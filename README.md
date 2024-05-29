@@ -44,7 +44,7 @@ Originally, the infrastructure was set up to scan an S3 bucket with Rekognition 
 <p align="center">
   <img src="https://i.imgur.com/2wUU82E.png" alt="Code commit permissions" width="80%" height="80%">
   <br>
-  <strong><small>Figure 4: Using postman to check if API Gateway is operating as intended.</small></strong>
+  <strong><small>Figure 3: SaaS frontend added to improve user accessibility.</small></strong>
 </p>
 <br>
 
@@ -61,14 +61,14 @@ CloudWatch was extremely helpful for troubleshooting. Initially, I encountered 5
 <p align="center">
   <img src="https://i.imgur.com/xXRMuAG.png" alt="Code commit permissions" width="80%" height="80%">
   <br>
-  <strong><small>Figure 3: Cloudwatch logs helping me identify an issue.</small></strong>
+  <strong><small>Figure 4: Cloudwatch logs helping me identify an issue.</small></strong>
 </p>
 <br>
 
 <p align="center">
   <img src="https://i.imgur.com/J00Ur4j.png" alt="Code commit permissions" width="80%" height="80%">
   <br>
-  <strong><small>Figure 4: Using postman to check if API Gateway is operating as intended.</small></strong>
+  <strong><small>Figure 5: Using postman to check if API Gateway is operating as intended.</small></strong>
 </p>
 <br>
 
