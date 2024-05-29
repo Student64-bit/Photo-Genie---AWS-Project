@@ -1,4 +1,4 @@
-##Photo Genie
+## Photo Genie
 # Overview
 
 This project is a simple frontend application that acts as a genie, identifying images posted by users using various Amazon Web Services (AWS).
